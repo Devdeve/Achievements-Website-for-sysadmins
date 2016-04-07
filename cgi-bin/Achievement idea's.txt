@@ -1,0 +1,127 @@
+Achievements icons- if they get an achievement. they can have a logo next to their name for the week.
+XP- experience for doing certain activities.
+Every Monday achievement shows what they did.
+Can level up with xp
+if they get to a certain level they can have something new.
+icons for achievements.
+Resets each week.
+Text or images for achievements?
+what activities could they do to get experience?
+20-50 achievements overall
+Achievement stats.
+who got the most achievements in a week.
+Steam like achievement system.
+Comparable to others
+able to track time logged in to certain machines.
+badge system maybe.
+number of time spent on a server - when someone logs in to when someone logs out.
+ban tracker
+if you get a certain achievement you get a badge that you display on your profile
+
+xp needed for the level
+levels:
+
+Starts at 2000.and for every level *the last one by 1.5
+eg: 2000,3000,4500,6570
+
+##1000xp for first level - Initiate
+##3000xp 2nd level - Trickster
+##6000xp 3rd level - Enchanter
+##9000xp 4th level - Acolyte
+##12000xp 5th level - something new - Druid
+##15000xp 6th - Seer
+##20000xp 7th - Sage
+##25000xp 8th - Witch
+##30000xp 9th - Shaman
+##35000xp 10th - something new. Necromancer
+##42500xp 11th - Pyromancer
+##50000xp 12th - Spellbinder
+##57500xp 13th - Spellslinger
+##65000xp 14th - Philosophlus
+##72500xp 15th - something new, - Thaumaturge
+##82500xp 16th - Magus
+##92500xp 17th - Experienced Tricker
+##102500xp 18th - Summoner
+##112500xp 19th - Illusionist
+##122500xp 20th - something new, - Spell Invoker
+##137500xp 21st - Shadowcaster
+##155000xp 22nd - Zelator
+##172500xp 23rd - Arcanus
+##190000xp 24th - Channeler
+##200000xp 25th - something new, - Adept
+##210000xp 26th - Evoker
+##220000xp 27th - Beguiler
+##230000xp 28th - Transmuter
+##240000xp 29th - Dowser
+##250000xp 30th - something new, - Alchemist
+##270000xp 31st - Adept journeyman
+##290000xp 32nd - Phantasmist
+##320000xp 33rd - Master sorcerer
+##330000xp 34th - Master Pyromancer
+##350000xp 35th - Something new - Master Spellbinder
+##380000xp 36th - Master Magus
+##410000xp 37th - Master Spellbinder
+##440000xp 38th - Master Invoker
+##470000xp 39th - Master arcanist
+##500000xp 40th - Something new - Master Thaumaturge
+##550000xp 41st - master summoner
+##600000xp 42nd - Master Channeler
+##650000xp 43rd - Master Illusionist
+##700000xp 44th - Master Zelator
+##750000xp 45th - Master Transmuter
+##820000xp 46th - Master Journeyman
+##890000xp 47th - Master Dowser
+##980000xp 48th - Master Alchemist
+##1000000xp 49th - Master Beguiler
+##2000000xp 50th - Grand Arch-Magus Overseer
+
+
+
+
+10xp per task?
+
+
+ -
+
+active and piled achievements.
+Achievements get put in the "bank" after the week you got it is over.
+They get stored as a percentage bar.
+Every week you add one of the achievements to the certain achievements "bank"
+you also get a counter for how many achievements in total you have.
+the weekly achievements gets added to its percentage bar. the total increases by 1 each week unless it is a monthly or a yearly achievement.
+EG. if i got the typing with speed for one week. next week that achievement would be added to the percentage bar for it. and the cap of the amount rises by 1. then if i got it
+again next week it would be added to the percentage bar the week after. and the cap and amount would be raised by 1 each time.
+
+
+Passive - can get unlimited amount of times. but small amounts that add up over time
+1 password wrong -2xp
+logging in to anything 2xp
+Each new piece of hardware you add into the system 5xp
+Publish something 2xp
+number of xp * number of nodes where operating system has incremented 1 version higher. 10xp
+xp for every ticket answered. 5xp
+xp for every ticket passed on to someone else 1xp
+detect manual installation of software packages and fine heavily if detected. yum install command detection. -50xp
+Give people xp for putting in correct usernames that they use.
+
+negative points for the number of files that are present in a sandbox that have not been committed in git. (multiplied by the length of time that they have been around).- if nagios
+reports presence of file in "/etc/noquattor/" on host (and we determine when the file was created.) and we go through the security log to determine who was logged in at that time. if
+only 1 person we will guess he created the file. if there is more than 1 person logged in its fine according to who owns the sandbox.
+
+
+lowest xp that someone has for that week has to buy the doughnuts on doughnuts Friday.
+
+
+
+making a change that requires more than 1000 files
+
+out of date software------
+team reduction
+
+Database for the achievements
+web interface for it
+
+
+
+Logs with login info - Samplexrootmanagerlog.log
+sunstone.log

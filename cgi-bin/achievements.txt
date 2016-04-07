@@ -1,0 +1,28 @@
+Typing with speed - Log in 5 times in 1 Min onto the same machine 100xp. Resets every calendar week - when they login, from logs
+Key Presser - Log in over 10 times in 1 Min onto the same machine 150xp. Resets every calendar week - when they login, from the logs
+Usain typer - Log in over 30 times in 1 Min onto the same machine 300xp. Resets every calendar week - when they login, from the logs
+Whoops - enter your password wrong twice -200xp. Resets every calendar week - from the logs with access denied.
+Extra Whoops - enter your password wrong three times -300xp. Resets every calendar week - from the logs with access denied
+Early bird - login on Monday between 9am-9:30am 100xp. Resets every calendar week. - Log on time from the logs
+Light sleeper - Log on before 9:30am for 3 days 300xp. Resets every calendar week - Log on time from the logs
+No breaks for you - logout past 10pm/login past 8pm for 1 day a week 100xp. Resets every calendar week. Logout/login time from the logs
+Locked up - get locked out 5xp. Resets every calendar week, - Logs with access denied
+Hacks? - Cheated the system -5000xp. Resets every calendar week, - if someone is logging in and out a bit too fast
+Not enough work - have 6 hours logged in total for the week 8xp. Resets every calendar week. Logs for time logged in all added together
+Red light. - login after 11am for the first time this week 5xp. Resets ever calendar week. Login time.
+Red Lighting - log in after 11am for the first time for that day 3 days that week - 4xp. resets every calendar week. - Logging in time
+Logging - 50xp for logging in at least once in the week. Resets every calendar week. - Logging in
+Bug abuser - get >9999xp in one day -200xp. Resets every calendar week. - gaining over 9999xp in one day. can be logged with the system
+Achievement get - get the most achievements than anyone else in a week 400xp. Resets every calendar week. - logged with other achievements - get a badge for it
+Trophy for last place - get the least achievements than anyone else in a week 5xp. Resets every calendar Week, - logged with other achievements - get a badge for it
+on the daily. - spend 1 day logged in. 15xp per day- resets every calendar week. - total time logged in added up. can be checked from the logs
+Who needs sleep? - spend 1 entire week logged in 200xp for the week - Updates 1 week from when you start, - can be gotten from the logs 
+Updates, who need them? - spend 1 month logged in 1000xp for a month - a month from the day you started. - can be recorded with the logs
+unobtanium - spend 1 year logged in 5000xp - ,-Updates yearly from the day you started. - Not really possible, but recorded with the logs
+The doughnut is a lie - miss a Friday - 5xp. Resets every calendar week. - Logs, make sure the person hasn't logged in at all on Friday. can be checked on logs
+the candles. - login on your birthday - 500xp . Resets on January the 1st every year. ask people for their birthdays. give xp for putting in their birthday.
+the trifecta - login to 3 machines within 5 seconds - 100xp. -Resets ever calendar week. - Can be checked with the logs to see if the person has
+the three musketeers - perform 3 successful actions within 10 seconds - 100xp -Resets every calendar week. - Can be checked with the logs for access granted
+The next J.K Rowling - first time publishing something for that week. 50xp. - resets every calendar week. - Can be checked with the logs i think 
+The castles are falling down! - first time you make a sandbox for that week. 50xp - Resets every calendar week - can be checked with the logs.
+Growing the roots - first time they create a template in a hardware tree for that week - 50xp - Resets every calendar week - can be checked with logs i think
